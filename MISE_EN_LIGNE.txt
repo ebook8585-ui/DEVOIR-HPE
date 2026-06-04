@@ -1,0 +1,13 @@
+MISE EN LIGNE RAPIDE
+
+Option recommandée :
+1. Dézippez le fichier.
+2. Allez sur un hébergeur de site statique comme Netlify, Vercel ou GitHub Pages.
+3. Déposez le dossier contenant index.html.
+4. Récupérez le lien HTTPS généré.
+5. Envoyez le lien + un code unique à chaque participant.
+
+Conseil :
+- Ne donnez pas le même code à plusieurs personnes.
+- Exemple : Ami 1 = HPE-001, Ami 2 = HPE-002, etc.
+- Faites un essai avec vous-même avant d'envoyer aux autres.

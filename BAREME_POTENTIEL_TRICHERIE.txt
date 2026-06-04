@@ -1,0 +1,21 @@
+POURCENTAGE DE POTENTIEL DE TRICHERIE
+
+Cette version ajoute dans le rapport :
+- Potentiel de tricherie : X %
+- Niveau de risque : Faible / Moyen / Élevé / Très élevé
+- Motifs du risque : incidents détectés
+
+Barème indicatif utilisé :
+- Caméra non autorisée : +20 %
+- Micro non autorisé : +15 %
+- Enregistrement caméra non démarré : +15 %
+- Alerte de bruit : +5 % par alerte, maximum 20 %
+- Tentative copier/couper : +5 % par tentative, maximum 15 %
+- Tentative coller : +5 % par tentative, maximum 15 %
+- Sortie d’onglet/fenêtre : +30 % par sortie, maximum 60 %
+- Sortie du plein écran : +35 % par sortie, maximum 50 %
+- Violation stricte : au moins 95 %
+
+Important :
+Ce pourcentage n’est pas une accusation définitive.
+C’est un indicateur automatique pour vous aider à repérer les copies qui méritent vérification.
