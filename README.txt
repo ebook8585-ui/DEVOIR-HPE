@@ -1,4 +1,4 @@
-SITE QUIZ - L'EPICURIEUX - DEVOIR DE HPE
+SITE QUIZ - EPICURIEUX - DEVOIR DE HPE
 
 Fichier principal :
 - index.html
