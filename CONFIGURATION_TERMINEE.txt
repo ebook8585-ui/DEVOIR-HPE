@@ -1,0 +1,7 @@
+Configuration terminée.
+
+L'URL Google Apps Script a été ajoutée dans config.js :
+https://script.google.com/macros/s/AKfycbwYl1MtrQC2nMnmbunXK5h8CZ4dUMcP6oUooOo0aR8HLGER7JKComDcGET4njTcQnfj8A/exec
+
+Vous pouvez maintenant mettre en ligne le dossier contenant index.html et config.js.
+Faites d'abord un test avec un code d'accès, puis vérifiez la réception du rapport par e-mail et dans Google Sheets.
